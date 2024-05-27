@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jaskaran-Python
+- 🌱 I’m currently learning python
+- I am making a software called pythintosh
